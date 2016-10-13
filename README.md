@@ -1,2 +1,2 @@
 # Test
-This is Test Program
+This is a test program
